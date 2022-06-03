@@ -8,4 +8,6 @@ Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing),
 Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem) and [Fallacies 
 of Distributed 
 Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+3. [Distributed data 
+store](https://en.wikipedia.org/wiki/Distributed_data_store)
 
